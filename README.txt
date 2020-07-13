@@ -11,5 +11,4 @@ WARNING: This files is a MATLAB scripts
 6- Enjoy
 -------------------------------------------------------------
 created by Umut on 2017
-umuthopekurt@gmail.com
 twitter/missedyourheart
